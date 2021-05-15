@@ -1,0 +1,18 @@
+{
+  "name": "aimen",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "imagemin-mozjpeg": "^9.0.0",
+    "next": "10.2.0",
+    "next-optimized-images": "^2.6.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "responsive-loader": "^2.3.0"
+  }
+}
